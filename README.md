@@ -1,3 +1,5 @@
-# hello-world
-this is just a small code for practice
-hi! this is malathi and i am learning git hub
+public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello, World");
+  }
+}
